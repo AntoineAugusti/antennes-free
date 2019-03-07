@@ -12,7 +12,7 @@ jobs:
       - run:
           name: Fetch data
           command: |
-            cd data && wget --content-disposition "https://mobile.free.fr/moncompte/index.php?page=csv-antennes-relais-indisponibles"
+            cd ~/repo/data && wget --content-disposition "https://mobile.free.fr/moncompte/index.php?page=csv-antennes-relais-indisponibles"
       - run:
           name: Set Git identity
           command: |
@@ -21,6 +21,7 @@ jobs:
       - run:
           name: Push to GitHub
           command: |
+            cd ~/repo
             if [ -n "$(git status --porcelain)" ]; then
               git add data
               git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
