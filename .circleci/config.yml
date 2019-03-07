@@ -12,7 +12,7 @@ jobs:
       - run:
           name: Fetch data
           command: |
-            cd ~/repo/data && wget --content-disposition "https://mobile.free.fr/moncompte/index.php?page=csv-antennes-relais-indisponibles"
+            cd ~/repo/data && wget --content-disposition -N "https://mobile.free.fr/moncompte/index.php?page=csv-antennes-relais-indisponibles"
       - run:
           name: Set Git identity
           command: |
