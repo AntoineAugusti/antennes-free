@@ -1,0 +1,46 @@
+version: 2
+jobs:
+  fetch_csv:
+    docker:
+      - image: circleci/python:3.6
+    steps:
+      - checkout:
+          path: ~/repo
+      - add_ssh_keys:
+          fingerprints:
+            - "3f:fd:39:1e:7d:5d:45:bb:1c:0f:df:fe:f6:91:6e:05"
+      - run:
+          name: Fetch data
+          command: |
+            cd data && wget --content-disposition "https://mobile.free.fr/moncompte/index.php?page=csv-antennes-relais-indisponibles"
+      - run:
+          name: Set Git identity
+          command: |
+            git config --global user.email "robot@circleci.com"
+            git config --global user.name "CircleCI"
+      - run:
+          name: Push to GitHub
+          command: |
+            if [ -n "$(git status --porcelain)" ]; then
+              git add data
+              git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+              git push origin master
+            else
+              echo "No changes";
+            fi
+
+workflows:
+  version: 2
+  fetch_and_push:
+    jobs:
+      - fetch_csv
+  cron:
+    triggers:
+      - schedule:
+          cron: "0 * * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - fetch_csv
