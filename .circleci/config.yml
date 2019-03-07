@@ -8,7 +8,7 @@ jobs:
           path: ~/repo
       - add_ssh_keys:
           fingerprints:
-            - "3f:fd:39:1e:7d:5d:45:bb:1c:0f:df:fe:f6:91:6e:05"
+            - "7f:97:d9:ea:aa:94:0d:01:56:a4:62:26:b3:3d:8e:17"
       - run:
           name: Fetch data
           command: |
