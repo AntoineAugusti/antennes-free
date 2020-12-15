@@ -60,7 +60,7 @@
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
    <link rel="stylesheet" href="/account/styles/externe.css?v=19cbb7fd5d2ff48b40535a6c9370f3cc">
-   <script src="/account/scripts/account.min.js?v=94a646bc600c83b31f2cba1e84b66f99"></script>
+   <script src="/account/scripts/account.min.js?v=eb73cf6d8b839f65d89bbad2c60c55bb"></script>
 
    </head>
 
@@ -294,7 +294,7 @@
    </div>
 
             <div class="mentions-link">
-      <p class="bold">
+         <p class="bold">
       Le débit d'absorption spécifique (DAS) local quantifie l'exposition de l'utilisateur aux ondes électromagnétiques de l'équipement concerné. Le DAS maximal autorisé est de 2 W/kg pour la tête et le tronc et de 4 W/kg pour les membres.
    </p>
    <p>
