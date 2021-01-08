@@ -48,11 +48,11 @@
    <link rel="stylesheet" href="/assets/libs/remodal/remodal.css">
    <link rel="stylesheet" href="/assets/libs/remodal/remodal-default-theme.css">
    <link rel="stylesheet" href="/assets/libs/jquery-slidebars/slidebars.min.css?v=8e0023e260f39fc341d6a8aafabc7eaa">
-   <link rel="stylesheet" href="/assets/styles/main.css?v=034804457ca5cf0a95d41c5fd1440a00">
+   <link rel="stylesheet" href="/assets/styles/main.css?v=a8c46a86660aed6a6b6d1920104c9bea">
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=898601117968cc71c5d9c131e0021eda"></script>
+   <script src="/assets/scripts/common.min.js?v=ba8dc61453e3075a4667c13caf90588f"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
@@ -103,9 +103,6 @@
    <li>
       <a href="/reseau-5G.html"><i class="i-5G"></i> <span class="hidden-phone">5G</span><span class="hidden-tablet hidden-desktop">La 5G Free</span></a>
    </li>
-   <li class="visible-phone">
-      <a href="/couverture/index.html"><i class="i-couverture"></i> Carte réseau</a>
-   </li>
    <li>
       <a href="http://adsl.free.fr/" target="_blank"><i class="i-freebox"></i> Freebox</a>
    </li>
@@ -116,8 +113,7 @@
       
       <div class="account">
          <ul class="buttons nav navbar-nav">
-            <li class="nav-item small"><a title="Carte de couverture réseau mobile
-" href="/couverture/index.html">
+            <li class="nav-item small"><a title="Carte de couverture réseau mobile" href="/couverture/index.html">
                   <i id="i-couverture" class="i-couverture"></i>
                </a>
             </li>
@@ -150,9 +146,6 @@
    </li>
    <li>
       <a href="/reseau-5G.html"><i class="i-5G"></i> <span class="hidden-phone">5G</span><span class="hidden-tablet hidden-desktop">La 5G Free</span></a>
-   </li>
-   <li class="visible-phone">
-      <a href="/couverture/index.html"><i class="i-couverture"></i> Carte réseau</a>
    </li>
    <li>
       <a href="http://adsl.free.fr/" target="_blank"><i class="i-freebox"></i> Freebox</a>
