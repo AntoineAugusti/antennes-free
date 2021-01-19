@@ -48,11 +48,11 @@
    <link rel="stylesheet" href="/assets/libs/remodal/remodal.css">
    <link rel="stylesheet" href="/assets/libs/remodal/remodal-default-theme.css">
    <link rel="stylesheet" href="/assets/libs/jquery-slidebars/slidebars.min.css?v=8e0023e260f39fc341d6a8aafabc7eaa">
-   <link rel="stylesheet" href="/assets/styles/main.css?v=f1787f99980f238fb46f349048efb230">
+   <link rel="stylesheet" href="/assets/styles/main.css?v=e8d9cb84b7cfc7efce669350da0762e7">
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=898601117968cc71c5d9c131e0021eda"></script>
+   <script src="/assets/scripts/common.min.js?v=ba8dc61453e3075a4667c13caf90588f"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
@@ -60,7 +60,7 @@
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
    <link rel="stylesheet" href="/account/styles/externe.css?v=19cbb7fd5d2ff48b40535a6c9370f3cc">
-   <script src="/account/scripts/account.min.js?v=eb73cf6d8b839f65d89bbad2c60c55bb"></script>
+   <script src="/account/scripts/account.min.js?v=81c71f7d4a21af070e50a962462da36c"></script>
 
    </head>
 
