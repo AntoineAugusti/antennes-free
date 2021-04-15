@@ -52,7 +52,7 @@
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=b1852f80d64db01808b4f780835cc393"></script>
+   <script src="/assets/scripts/common.min.js?v=552534e9a54000c18ca2b7943dfdd3a3"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
@@ -60,7 +60,7 @@
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
    <link rel="stylesheet" href="/account/styles/externe.css?v=19cbb7fd5d2ff48b40535a6c9370f3cc">
-   <script src="/account/scripts/account.min.js?v=81c71f7d4a21af070e50a962462da36c"></script>
+   <script src="/account/scripts/account.min.js?v=7c437ced693dfff4e751fac7bb41ec83"></script>
 
    </head>
 
