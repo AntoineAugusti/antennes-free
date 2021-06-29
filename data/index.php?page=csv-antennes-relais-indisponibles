@@ -107,7 +107,7 @@
       <a href="http://adsl.free.fr/" target="_blank"><i class="i-freebox"></i> Freebox</a>
    </li>
    <li>
-      <a href="/assistance/"><i class="i-assistance"></i> Assistance</a>
+      <a href="https://assistance.free.fr/"><i class="i-assistance"></i> Assistance</a>
    </li>
 </ul>         </div>
       
@@ -151,7 +151,7 @@
       <a href="http://adsl.free.fr/" target="_blank"><i class="i-freebox"></i> Freebox</a>
    </li>
    <li>
-      <a href="/assistance/"><i class="i-assistance"></i> Assistance</a>
+      <a href="https://assistance.free.fr/"><i class="i-assistance"></i> Assistance</a>
    </li>
 </ul>            </div>
             <div class="main-menu-overlay"></div>
@@ -258,7 +258,7 @@
          <ul>
             <li><a href="/account/">Mon compte</a></li>
             <li><a href="/services-mobiles.html">Mes services mobiles</a></li>
-            <li><a href="/assistance/">Assistance</a></li>
+            <li><a href="https://assistance.free.fr/">Assistance</a></li>
             <li><a href="/protection-enfance.html">Protection de l'enfance</a></li>
             <li><a href="https://www.free.fr/freebox/informations/nous-contacter/" target="_blank">Nous contacter</a></li>
          </ul>
