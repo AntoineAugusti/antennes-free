@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="fr">
+<head>
+   <meta charset="utf-8">
+   <title>Un problème ?</title>
+
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+   <link rel="icon" type="image/x-icon" href="/assets/favicon/favicon.ico?v=1">
+   <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
+   <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
+   <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
+   <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
+   <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
+   <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
+   <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
+   <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
+   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
+   <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon/android-icon-192x192.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+
+   <style>
+      @font-face {
+         font-family: "OS";
+         src: url("/assets/fonts/Open_Sans/regular/OpenSans-Regular-webfont.eot?v=1");
+         src: url("/assets/fonts/Open_Sans/regular/OpenSans-Regular-webfont.eot?#iefix&v=1") format("embedded-opentype"), url("/assets/fonts/Open_Sans/regular/OpenSans-Regular-webfont.woff2?v=1") format("woff2"), url("/assets/fonts/Open_Sans/regular/OpenSans-Regular-webfont.woff?v=1") format("woff"), url("/assets/fonts/Open_Sans/regular/OpenSans-Regular-webfont.ttf?v=1") format("truetype"), url("/assets/fonts/Open_Sans/regular/OpenSans-Regular-webfont.svg?v=1#open_sansregular") format("svg");
+         font-weight: normal;
+         font-style: normal;
+      }
+      @font-face {
+         font-family: "OS-b";
+         src: url("/assets/fonts/Open_Sans/bold/OpenSans-Bold-webfont.eot?v=1");
+         src: url("/assets/fonts/Open_Sans/bold/OpenSans-Bold-webfont.eot?#iefix&v=1") format("embedded-opentype"), url("/assets/fonts/Open_Sans/bold/OpenSans-Bold-webfont.woff2?v=1") format("woff2"), url("/assets/fonts/Open_Sans/bold/OpenSans-Bold-webfont.woff?v=1") format("woff"), url("/assets/fonts/Open_Sans/bold/OpenSans-Bold-webfont.ttf?v=1") format("truetype"), url("/assets/fonts/Open_Sans/bold/OpenSans-Bold-webfont.svg?v=1#open_sansbold") format("svg");
+         font-weight: bold;
+         font-style: normal;
+      }
+      @font-face {
+         font-family: "OS-l";
+         src: url("/assets/fonts/Open_Sans/light/OpenSans-Light.eot?v=1");
+         src: url("/assets/fonts/Open_Sans/light/OpenSans-Light.eot?#iefix&v=1") format("embedded-opentype"), url("/assets/fonts/Open_Sans/light/OpenSans-Light.woff2?v=1") format("woff2"), url("/assets/fonts/Open_Sans/light/OpenSans-Light.woff?v=1") format("woff"), url("/assets/fonts/Open_Sans/light/OpenSans-Light.ttf?v=1") format("truetype"), url("/assets/fonts/Open_Sans/light/OpenSans-Light.svg?v=1#open_sansregular") format("svg");
+         font-weight: normal;
+         font-style: normal;
+      }
+      body {
+         font-family: "OS-l";
+         font-size: 10px;
+         margin: 0;
+         padding: 0;
+         background: url(/err/images/background_500.png) no-repeat;
+         background-position: center;
+         background-color: #fff;
+      }
+      .texte_404 {
+         text-align: center;
+         margin-top: 40%;
+      }
+      .texte_404 p {
+         font-size: 3em;
+      }
+      .btn {
+         background-color: #c00;
+         color: white;
+         font-weight: 600;
+         padding: 10px 40px;
+      }
+      .texte_404 a {
+         text-decoration: none;
+      }
+      @media (min-width: 1280px) and (max-width: 1440px) {
+         .texte_404 {
+            text-align: center;
+            vertical-align: central;
+            padding-top: 10%;
+         }
+         .texte_404 p {
+            font-size: 2.5em;
+         }
+      }
+      @media (min-width: 1024px) and (max-width: 1280px) {
+         .texte_404 {
+            text-align: center;
+            padding-top: 25%;
+         }
+         .texte_404 p {
+            font-size: 2.5em;
+         }
+      }
+      @media (min-width: 768px) and (max-width: 1024px) {
+         .texte_404 {
+            text-align: center;
+            padding-top: 35%;
+         }
+         .texte_404 p {
+            font-size: 2.5em;
+         }
+      }
+      @media (min-width: 425px) and (max-width: 768px) {
+         body {
+            background-size: 60%;
+         }
+         .texte_404 {
+            text-align: center;
+            padding-top: 30%;
+         }
+         .texte_404 p {
+            font-size: 2em;
+         }
+      }
+      @media (min-width: 320px) and (max-width: 425px) {
+         body {
+            background-size: 60%;
+         }
+         .texte_404 {
+            text-align: center;
+            padding-top: 30%;
+         }
+         .texte_404 p {
+            font-size: 2em;
+         }
+      }
+      @media screen and (max-width: 320px) {
+         body {
+            background-size: 60%;
+         }
+         .texte_404 {
+            text-align: center;
+            padding-top: 30%;
+         }
+         .texte_404 p {
+            font-size: 2em;
+         }
+      }
+   </style>
+
+</head>
+<body>
+
+   <div class="texte_404">
+      <p>Il semblerait qu'il y ait un problème.</p>
+      <p>
+         <a href="/" class="btn">Retourner à l'accueil</a>
+      </p>
+   </div>
+
+</body>
+</html>
