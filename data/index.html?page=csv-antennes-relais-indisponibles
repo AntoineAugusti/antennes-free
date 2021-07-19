@@ -48,19 +48,19 @@
    <link rel="stylesheet" href="/assets/libs/remodal/remodal.css">
    <link rel="stylesheet" href="/assets/libs/remodal/remodal-default-theme.css">
    <link rel="stylesheet" href="/assets/libs/jquery-slidebars/slidebars.min.css?v=d61283d49cf7b1301d43aa04ff96b160">
-   <link rel="stylesheet" href="/assets/styles/main.css?v=56de2f33494d85f2a3e5791c42d4f871">
+   <link rel="stylesheet" href="/assets/styles/main.css?v=25fa4ca1c5d8144f65209ba0460d201b">
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=5fb04a6da8556ded7317b0ddeac13a92"></script>
+   <script src="/assets/scripts/common.min.js?v=4986d55480d40537cc7b5d4acece434d"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
 
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
-   <link rel="stylesheet" href="/account/styles/externe.css?v=22da50c9d25aac5d05910a12ecc8c5f3">
-   <script src="/account/scripts/account.min.js?v=3ab6ff976bda167d1f1c7bfd268f8d87"></script>
+   <link rel="stylesheet" href="/account/styles/externe.css?v=86aba0cfec66c28fbef1d50531b86ab9">
+   <script src="/account/scripts/account.min.js?v=9e42e03819cd4bdb6823ebdd89fb4fcc"></script>
 
    </head>
 
@@ -283,7 +283,7 @@
                <a href="/account/forget">
                   Vous avez oublié votre mot de passe<br>ou perdu vos identifiants ?
                </a>
-               <a href="/account/bad-mail">
+               <a href="/account/email-errone">
                   Vous n'avez plus accès à vos emails<br>ou vous vous êtes trompé d'email à l'inscription ?
                </a>
             </div>
