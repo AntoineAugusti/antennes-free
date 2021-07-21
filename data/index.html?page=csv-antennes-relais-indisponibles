@@ -84,7 +84,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe">
+      <a href="/shop/?from=subscribe&_=1626887460">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -128,7 +128,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1626887460" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -140,7 +140,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1626887460" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -167,7 +167,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe">
+      <a href="/shop/?from=subscribe&_=1626887460">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -211,7 +211,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1626887460" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -223,7 +223,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1626887460" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -325,14 +325,14 @@
             <li><a href="/fiche-forfait-serie-free.html">Série Free</a></li>
             <li><a href="/fiche-forfait-2-euros.html">Forfait 2h</a></li>
             <li><a href="/free-flex.html">Free Flex</a></li>
-            <li><a href="/shop/?from=subscribe">Smartphones & Mobiles</a></li>
+            <li><a href="/shop/?from=subscribe&_=">Smartphones & Mobiles</a></li>
             <li><a href="/reseau-5G.html">La 5G Free</a></li>
             <li><a href="/couverture/index.html">Carte de couverture réseau mobile</a></li>
             <li><a href="/la-box-4G.html">Box 4G+</a></li>
             <li><a href="https://free.fr/boutiques/" target="_blank">Trouver une Borne Free</a></li>
             <li><a href="/docs/cnc_guide_interactif.pdf" target="_blank" title="Guide Pratique des communications électroniques au 2 mars 2012.">Guide Pratique des communications électroniques</a></li>
             <li><a href="/subscribe/?mode=2&forfait=1&show=location">Ancienne offre de location sans option d'achat</a></li>
-            <li><a href="/shop?from=subscribe">Nouvelle offre de location avec option d'achat</a></li>
+            <li><a href="/shop?from=subscribe&_=">Nouvelle offre de location avec option d'achat</a></li>
          </ul>
       </div>
       <div class="grid-c w-4 w-desktop-3 menu">
