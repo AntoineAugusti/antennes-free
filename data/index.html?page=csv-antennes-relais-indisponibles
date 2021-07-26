@@ -48,11 +48,11 @@
    <link rel="stylesheet" href="/assets/libs/remodal/remodal.css">
    <link rel="stylesheet" href="/assets/libs/remodal/remodal-default-theme.css">
    <link rel="stylesheet" href="/assets/libs/jquery-slidebars/slidebars.min.css?v=d61283d49cf7b1301d43aa04ff96b160">
-   <link rel="stylesheet" href="/assets/styles/main.css?v=56de2f33494d85f2a3e5791c42d4f871">
+   <link rel="stylesheet" href="/assets/styles/main.css?v=65b23d9a3cab74d7ccd5d732498ef571">
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=9599ee21dd200204c6af0cf1ba46f9b8"></script>
+   <script src="/assets/scripts/common.min.js?v=ef5d16f8d8d832071639a9e91f03b4dc"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
@@ -60,7 +60,7 @@
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
    <link rel="stylesheet" href="/account/styles/externe.css?v=86aba0cfec66c28fbef1d50531b86ab9">
-   <script src="/account/scripts/account.min.js?v=fa600c7c8e4afc8d911fd123bff1dd04"></script>
+   <script src="/account/scripts/account.min.js?v=9e42e03819cd4bdb6823ebdd89fb4fcc"></script>
 
    </head>
 
@@ -84,7 +84,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1627290660">
+      <a href="/shop/?from=subscribe&_=1627294260">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -128,7 +128,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1627290660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1627294260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -140,7 +140,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1627290660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1627294260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -167,7 +167,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1627290660">
+      <a href="/shop/?from=subscribe&_=1627294260">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -211,7 +211,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1627290660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1627294260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -223,7 +223,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1627290660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1627294260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -350,6 +350,7 @@
          <ul>
             <li><a href="/docs/cga/Conditions_Generales_Abonnement.pdf" target="_blank" title="Conditions Générales d'Abonnement au 1 décembre 2020.">Conditions Générales d'Abonnement</a></li>
             <li><a href="/docs/Conditions_Generales_de_Location.pdf" target="_blank" title="Conditions Générales de Location au 20 février 2019.">Conditions Générales de Location</a></li>
+            <li><a href="/docs/Offre_contrat_loa.pdf" target="_blank" title="Offre de contrat de location avec option d’achat au 6 juillet 2021.">Offre de contrat de location avec option d’achat</a></li>
             <li><a href="/docs/Conditions_Generales_de_Vente_de_Terminaux.pdf" target="_blank" title="Conditions Générales de Vente au 3 novembre 2020.">Conditions Générales de Vente</a></li>
             <li><a href="/docs/bt/tarifs.pdf" target="_blank" title="Brochure tarifaire au 1 janvier 2021.">Brochure tarifaire</a></li>
             <li><a href="/docs/Fiche_information_precontractuelle.pdf" target="_blank" title="Fiche d'information précontractuelle au 25 août 2017.">Fiche d'information précontractuelle</a></li>
