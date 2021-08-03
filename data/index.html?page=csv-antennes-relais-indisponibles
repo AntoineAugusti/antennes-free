@@ -84,7 +84,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1628021460">
+      <a href="/shop/?from=subscribe&_=1628025060">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -128,7 +128,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1628021460" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1628025060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -140,7 +140,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1628021460" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1628025060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -167,7 +167,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1628021460">
+      <a href="/shop/?from=subscribe&_=1628025060">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -211,7 +211,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1628021460" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1628025060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -223,7 +223,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1628021460" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1628025060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
