@@ -84,7 +84,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1628061060">
+      <a href="/shop/?from=subscribe&_=1628064660">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -128,7 +128,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1628061060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1628064660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -140,7 +140,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1628061060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1628064660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -167,7 +167,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1628061060">
+      <a href="/shop/?from=subscribe&_=1628064660">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -211,7 +211,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1628061060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1628064660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -223,7 +223,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1628061060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1628064660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -352,7 +352,7 @@
             <li><a href="/docs/Conditions_Generales_de_Location.pdf" target="_blank" title="Conditions Générales de Location au 20 février 2019.">Conditions Générales de Location</a></li>
             <li><a href="/docs/Offre_contrat_loa.pdf" target="_blank" title="Offre de contrat de location avec option d’achat au 6 juillet 2021.">Offre de contrat de location avec option d’achat</a></li>
             <li><a href="/docs/Conditions_Generales_de_Vente_de_Terminaux.pdf" target="_blank" title="Conditions Générales de Vente au 3 novembre 2020.">Conditions Générales de Vente</a></li>
-            <li><a href="/docs/bt/tarifs.pdf" target="_blank" title="Brochure tarifaire au 1 janvier 2021.">Brochure tarifaire</a></li>
+            <li><a href="/docs/bt/tarifs.pdf" target="_blank" title="Brochure tarifaire au 4 août 2021.">Brochure tarifaire</a></li>
             <li><a href="/docs/Fiche_information_precontractuelle.pdf" target="_blank" title="Fiche d'information précontractuelle au 25 août 2017.">Fiche d'information précontractuelle</a></li>
             <li><a href="/docs/Recapitulatif_contractuel.pdf" target="_blank" title="Récapitulatifs Contractuels au 6 juillet 2021.">Récapitulatifs Contractuels</a></li>
             <li><a href="/docs/fis/Fiche_information_standardisee_Serie_Free.pdf" target="_blank" title="Fiche d’information et Tarifs Série Free au 23 décembre 2020.">Fiche d’information et Tarifs Série Free</a></li>
