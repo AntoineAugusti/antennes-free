@@ -52,7 +52,7 @@
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=fadead3a951ed3c24b98818a74f5d045"></script>
+   <script src="/assets/scripts/common.min.js?v=c814a9c6fb08b11f8226fb8ad5dcff29"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
@@ -84,7 +84,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1634652660">
+      <a href="/shop/?from=subscribe&_=1634656260">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -133,7 +133,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1634652660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1634656260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -145,7 +145,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1634652660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1634656260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -172,7 +172,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1634652660">
+      <a href="/shop/?from=subscribe&_=1634656260">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -221,7 +221,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1634652660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1634656260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -233,7 +233,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1634652660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1634656260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
