@@ -44,23 +44,23 @@
    <meta name="theme-color" content="#CC0000">
 
 
-         <link rel="stylesheet" href="/assets/styles/custom-bootstrap.css?v=6d748f788f2834c9ecebc1ea6ca1aa83">
+         <link rel="stylesheet" href="/assets/styles/custom-bootstrap.css">
    <link rel="stylesheet" href="/assets/libs/remodal/remodal.css">
    <link rel="stylesheet" href="/assets/libs/remodal/remodal-default-theme.css">
-   <link rel="stylesheet" href="/assets/libs/jquery-slidebars/slidebars.min.css?v=d61283d49cf7b1301d43aa04ff96b160">
-   <link rel="stylesheet" href="/assets/styles/main.css?v=666098f3534233bca286d6d7b33fdfe3">
+   <link rel="stylesheet" href="/assets/libs/jquery-slidebars/slidebars.min.css">
+   <link rel="stylesheet" href="/assets/styles/main.css">
 
-   <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
-   <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=21ffe71109c2dd1d1d2804a662078224"></script>
-   <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
-   <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
-   <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
+   <script src="/assets/libs/jquery-v3.2.1/jquery.min.js"></script>
+   <script src="/assets/libs/jquery-slidebars/slidebars.min.js"></script>
+   <script src="/assets/scripts/common.min.js"></script>
+   <script src="/assets/libs/remodal/remodal.min.js"></script>
+   <script src="/assets/scripts/modal-responsive.1.0.js"></script>
+   <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js"></script>
 
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
-   <link rel="stylesheet" href="/account/styles/externe.css?v=8fd1af6b2d2a9b8dba8d3ba252d45f16">
-   <script src="/account/scripts/account.min.js?v=1aaf4f42ad7414b95ede384dc89cef0e"></script>
+   <link rel="stylesheet" href="/account/styles/externe.css">
+   <script src="/account/scripts/account.min.js"></script>
 
    </head>
 
@@ -84,7 +84,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1662642660">
+      <a href="/shop/?from=subscribe&_=1662646260">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -133,7 +133,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1662642660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1662646260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -145,7 +145,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1662642660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1662646260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -172,7 +172,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1662642660">
+      <a href="/shop/?from=subscribe&_=1662646260">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -221,7 +221,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1662642660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1662646260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -233,7 +233,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1662642660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1662646260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -250,24 +250,37 @@
                   <div class="pe-login">
       <div class="bloc-login">
 
-         <h2 class="pre-titre text-center">Pour accéder à votre compte</h2>
          <h1 class="titre text-center">Identifiez-vous</h1>
+         <h2 class="pre-titre text-center">Pour accéder à votre espace abonné mobile Free</h2>
 
          <form class="form-login" action="" method="POST">
-            <div class="form__line">
-                                          <label class="mdc-text-field mdc-text-field--filled">
+            <div class="form__line form-input">
+                                          <label class="mdc-text-field mdc-text-field--filled mdc-text-field--with-internal-counter">
          
-      <input                 type="text" name="login-ident" value="" pattern="[1-9][0-9]{7}" autocomplete="free-identifiant" required="required" class=" mdc-text-field__input" aria-labelledby="form_libelle--1">
+      <input                 type="text" name="login-ident" value="" maxlength="8" pattern="[1-9][0-9]{7}" autocomplete="free-identifiant" required="required" class=" mdc-text-field__input" aria-labelledby="form_libelle--1">
                <span class="mdc-floating-label " id="form_libelle--1">
-         Identifiant
+         Identifiant (8 chiffres)
       </span>
       <span class="mdc-line-ripple"></span>
    
+      <div class="mdc-text-field-character-counter">x / x</div>
          </label>
    
 
             </div>
-            <div class="form__line">
+            <div class="form__line form-input">
+    <div class="form-tips">
+        <div onclick="$('.form-tips-text').toggle();">
+            <span class="i-info"></span>
+            <span>Quel est mon identifiant ?</span>
+        </div>
+        <span class="form-tips-text">
+            Votre identifiant (ou n° abonné) se trouve sur vos <span class="text-bold">factures mobile Free</span> ou dans les <span class="text-bold">emails mobile Free</span>.
+        </span>
+    </div>
+</div>
+
+            <div class="form__line form-input">
                                           <label class="mdc-text-field mdc-text-field--filled toggle-password">
          
       <input                 type="password" name="login-pwd" value="" required="required" class=" mdc-text-field__input" aria-labelledby="form_libelle--2">
