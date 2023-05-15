@@ -60,6 +60,9 @@
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
    <link rel="stylesheet" href="/account/styles/externe.css?v=6a5c82ef2ac32b6b4306e828beb2e0f3">
+   <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.min.css?v=ec4ebe26afcae69ed461429b22179e16">
+   <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.theme.min.css?v=fedb1602fd53d77f216d11ecb15b782e">
+   <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.structure.min.css?v=880bfa2ab3cb8b3632512334b20cc99f">
    <script src="/account/scripts/account.min.js?v=176dba785298823da367f3b241876ba1"></script>
 
    </head>
@@ -84,7 +87,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1684138260">
+      <a href="/shop/?from=subscribe&_=1684141860">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -133,7 +136,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1684138260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1684141860" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -145,7 +148,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1684138260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1684141860" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -172,7 +175,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1684138260">
+      <a href="/shop/?from=subscribe&_=1684141860">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -221,7 +224,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1684138260" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&_=1684141860" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -233,7 +236,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1684138260" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1684141860" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -406,7 +409,7 @@
       Le débit d'absorption spécifique (DAS) local quantifie l'exposition de l'utilisateur aux ondes électromagnétiques de l'équipement concerné. Le DAS maximal autorisé est de 2 W/kg pour la tête et le tronc et de 4 W/kg pour les membres.
    </p>
    <p>Free Mobile a recours à Iliad 78, Etablissement de paiement agréé par l’ACPR, agissant comme prestataire de services techniques.</p>
-   <p class="commit-sha">Révision: </p>
+   <p class="commit-sha">Révision: 4b9b28fb4ac6aafe18c25f9bbf06d595fc125866</p>
 </div>
    
    </footer>
