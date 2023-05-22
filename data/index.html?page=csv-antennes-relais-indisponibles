@@ -52,18 +52,18 @@
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=5e51ab471b849e2e803f6a443cc2ca40"></script>
+   <script src="/assets/scripts/common.min.js?v=e8742f1e629d54cb726cb70331ec9f0d"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
 
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
-   <link rel="stylesheet" href="/account/styles/externe.css?v=6a5c82ef2ac32b6b4306e828beb2e0f3">
+   <link rel="stylesheet" href="/account/styles/externe.css?v=34a55b55bfa699455741afc238960823">
    <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.min.css?v=ec4ebe26afcae69ed461429b22179e16">
    <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.theme.min.css?v=fedb1602fd53d77f216d11ecb15b782e">
    <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.structure.min.css?v=880bfa2ab3cb8b3632512334b20cc99f">
-   <script src="/account/scripts/account.min.js?v=176dba785298823da367f3b241876ba1"></script>
+   <script src="/account/scripts/account.min.js?v=5708ece8507a1bb66e93db5fbcb78b89"></script>
 
    </head>
 
@@ -87,7 +87,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1684761060">
+      <a href="/shop/?from=subscribe&_=1684764660">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -136,7 +136,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1684761060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1684764660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -148,7 +148,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1684761060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1684764660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -171,11 +171,11 @@
    </div>
 </nav>
       <div class="wrapper-page remodal-bg" >
-         <div class="container container-smooth">
+         <div class="container container-smooth container-shop">
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1684761060">
+      <a href="/shop/?from=subscribe&_=1684764660">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -224,7 +224,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&_=1684761060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1684764660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -236,7 +236,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1684761060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1684764660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
