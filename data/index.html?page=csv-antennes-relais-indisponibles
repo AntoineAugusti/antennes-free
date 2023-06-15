@@ -52,14 +52,14 @@
 
    <script src="/assets/libs/jquery-v3.2.1/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
    <script src="/assets/libs/jquery-slidebars/slidebars.min.js?v=c1753c151e33bcb2899033de50cd2eeb"></script>
-   <script src="/assets/scripts/common.min.js?v=e8742f1e629d54cb726cb70331ec9f0d"></script>
+   <script src="/assets/scripts/common.min.js?v=6a0038c1e605e3b1fd3c4595c2537214"></script>
    <script src="/assets/libs/remodal/remodal.min.js?v=27766f7f253c55e082376b092bcf2f1e"></script>
    <script src="/assets/scripts/modal-responsive.1.0.js?v=c017f9d2438b7fd582a9c407d88770a6"></script>
    <script src="/assets/libs/bootstrap/v3.3.2/bootstrap.min.js?v=9149615e9d29fb4f78eca69657f90edd"></script>
 
    <script src="/assets/libs/jquery-ui/jquery-ui.js"></script>
 
-   <link rel="stylesheet" href="/account/styles/externe.css?v=34a55b55bfa699455741afc238960823">
+   <link rel="stylesheet" href="/account/styles/externe.css?v=b273f2dd8f55fa79436c52fe51893919">
    <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.min.css?v=ec4ebe26afcae69ed461429b22179e16">
    <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.theme.min.css?v=fedb1602fd53d77f216d11ecb15b782e">
    <link rel="stylesheet" href="/assets/libs/jquery-ui/jquery-ui.structure.min.css?v=880bfa2ab3cb8b3632512334b20cc99f">
@@ -67,7 +67,7 @@
 
    </head>
 
-<body id="account-login" class="main acc_login" data-theme="main">
+<body id="account-login" class="main acc_login_fm" data-theme="main">
 
       <div class="remodal-bg">
 
@@ -87,7 +87,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1686831060">
+      <a href="/shop/?from=subscribe&_=1686834660">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -136,7 +136,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1686831060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1686834660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -148,7 +148,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1686831060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1686834660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -175,7 +175,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1686831060">
+      <a href="/shop/?from=subscribe&_=1686834660">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -224,7 +224,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1686831060" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1686834660" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -236,7 +236,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1686831060" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1686834660" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -251,14 +251,17 @@
                            
 <div class="flash-container"></div>            
                   <div class="pe-login">
-      <div class="bloc-login">
-
-         <h1 class="titre text-center">Identifiez-vous</h1>
-         <h2 class="pre-titre text-center">Pour accéder à votre espace abonné mobile Free</h2>
-
-         <form class="form-login" action="" method="POST">
-            <div class="form__line form-input">
-                                          <label class="mdc-text-field mdc-text-field--filled mdc-text-field--with-internal-counter">
+        <div class="form-container">
+            <div class="login-form">
+                <div class="form-header">
+                    <img src="/account/images/login/mobile.png" class="visible-phone visible-tablet"/>
+                    <h1 class="title bold">Bienvenue</h1>
+                    <h2 class="subtitle">Connectez-vous à votre Espace Abonné mobile</h2>
+                </div>
+                <div class="form-body">
+                    <form class="form-login" action="" method="POST">
+                        <div>
+                                                   <label class="mdc-text-field mdc-text-field--filled mdc-text-field--with-internal-counter form-input">
          
       <input                 type="text" name="login-ident" value="" maxlength="8" pattern="[1-9][0-9]{7}" autocomplete="free-identifiant" required="required" class=" mdc-text-field__input" aria-labelledby="form_libelle--1">
                <span class="mdc-floating-label " id="form_libelle--1">
@@ -270,21 +273,9 @@
          </label>
    
 
-            </div>
-            <div class="form__line form-input">
-    <div class="form-tips">
-        <div onclick="$('.form-tips-text').toggle();">
-            <span class="i-info"></span>
-            <span>Quel est mon identifiant ?</span>
-        </div>
-        <span class="form-tips-text">
-            Votre identifiant (ou n° abonné) se trouve sur vos <span class="text-bold">factures mobile Free</span> ou dans les <span class="text-bold">emails mobile Free</span>.
-        </span>
-    </div>
-</div>
-
-            <div class="form__line form-input">
-                                          <label class="mdc-text-field mdc-text-field--filled toggle-password">
+                        </div>
+                        <div class="mt-16">
+                                                   <label class="mdc-text-field mdc-text-field--filled toggle-password form-input">
          
       <input                 type="password" name="login-pwd" value="" required="required" spellcheck="false" class=" mdc-text-field__input" aria-labelledby="form_libelle--2">
          <span class="mdc-text-field__affix mdc-text-field__affix--suffix">
@@ -298,30 +289,56 @@
          </label>
    
 
-            </div>
-
-            <div class="form__button text-center">
-                        <button name="bt-login" value="1" type="submit" class="bt-label bt-red bt-big bt-bold bt-square bt-label-right">
-      <span>Se connecter</span>          <span class="bt-icon i-login"></span>
-         <span class="bt-label__state hidden" data-button-state="submiting">               <span>Connexion en cours</span>         <span class="bt-icon bt-icon--loader"></span>
-         </span>
+                        </div>
+                        <div class="free-link">
+                            <a href="/account/forget-password" class="link">
+                                Mot de passe oublié ?
+                            </a>
+                        </div>
+                        <div class="form-button">
+                                       
+   
+   <button  name="bt-login" value="1" class="bt-label bt-red bt-big bt-bold bt-square bt-no-icon new-btn-style" type="submit">
+      <span>Se connecter</span>
+         <span class="bt-label__state hidden" data-button-state="submiting">               <span>Connexion en cours</span></span>
 </button>
 
+
+                           <div class="btn-accordion mt-16">
+    <div class="header toggle-btn-accordion">
+        <span class="bold">Quel est mon identifiant ?</span>
+        <i class="i-chevron-down"></i>
+    </div>
+    <div class="body">
+        <span class="mt-16">Votre identifiant abonné se trouve sur vos <span class="bold">factures mobile</span> ou dans les <span class="bold">emails envoyés</span> par Free Mobile.
+        <br />
+        <br />
+        <div class="free-link" style="justify-content:start">
+            <a href="/account/forget-login" class="link">Vous ne le retrouvez pas ?</a>
+        </div>
+    </div>
+</div>
+
+                                                       <div class="infos-utiles">
+                                <div>
+                                    <a href="https://subscribe.free.fr/login/" target="_blank">
+                                        <span>Espace Abonné Freebox</span>
+                                        <img src="/assets/images/icons/external-link.svg" alt="Lien externe" />
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="https://mobile.free.fr/">
+                                        <span>Pas encore abonné ? Découvrez nos offres</span>
+                                        <img src="/assets/images/icons/arrow-right-ds.svg" alt="Flèche droite" />
+                                    </a>
+                                </div>
+                            </div>
+                                                   </div>
+                    </form>
+                </div>
             </div>
-
-            <div class="forgot-links text-center">
-               <a href="/account/forget-login">
-                  Identifiant oublié ?
-               </a>
-               <br><br>
-               <a href="/account/forget-password">
-                  Mot de passe oublié ?<br>Première connexion ?
-               </a>
-            </div>
-
-         </form>
-
-      </div>
+        </div>
+        <div class="pres-container"></div>
    </div>
          </div>
       </div>
@@ -410,7 +427,7 @@
       Le débit d'absorption spécifique (DAS) local quantifie l'exposition de l'utilisateur aux ondes électromagnétiques de l'équipement concerné. Le DAS maximal autorisé est de 2 W/kg pour la tête et le tronc et de 4 W/kg pour les membres.
    </p>
    <p>Free Mobile a recours à Iliad 78, Etablissement de paiement agréé par l’ACPR, agissant comme prestataire de services techniques.</p>
-   <p class="commit-sha">Révision: f8ac92a315e5b865098e40b474a9813ab96dfb76</p>
+   <p class="commit-sha">Révision: 2ad7d7177e0b14f92fa3e28e1c31043bdf15eb25</p>
 </div>
    
    </footer>
