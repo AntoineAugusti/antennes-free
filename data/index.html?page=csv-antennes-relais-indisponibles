@@ -87,7 +87,7 @@
                <div class="main-nav">
             <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1704967860">
+      <a href="/shop/?from=subscribe&_=1704971490">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -136,7 +136,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1704967860" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1704971490" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -148,7 +148,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1704967860" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1704971490" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -175,7 +175,7 @@
             <div class="main-nav nav-menu" role="navigation" off-canvas="main-nav left overlay">
                <ul class="nav navbar-nav main-menu-items">
    <li >
-      <a href="/shop/?from=subscribe&_=1704967860">
+      <a href="/shop/?from=subscribe&_=1704971490">
          <i class="i-mobile_appels"></i> Téléphones
       </a>
    </li>
@@ -224,7 +224,7 @@
          <p>Choisissez votre mobile puis connectez-vous</p>
                      
    
-   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1704967860" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
+   <a  href="/shop/?from=selfcare&userShops={{ userShops }}&user={{ username }}&_=1704971490" class="bt-label bt-big bt-bold bt-round bt-red bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -236,7 +236,7 @@
          <p>Continuez en tant qu&#039;invité</p>
                      
    
-   <a  href="/shop/?from=subscribe&_=1704967860" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
+   <a  href="/shop/?from=subscribe&_=1704971490" class="bt-label bt-big bt-bold bt-round bt-black bt-no-icon">
       <span>Continuer</span>
          <span class="bt-label__state hidden" data-button-state="redirecting">               <span>Redirection en cours</span></span>
 </a>
@@ -444,7 +444,7 @@
       Le débit d'absorption spécifique (DAS) local quantifie l'exposition de l'utilisateur aux ondes électromagnétiques de l'équipement concerné. Le DAS maximal autorisé est de 2 W/kg pour la tête et le tronc et de 4 W/kg pour les membres.
    </p>
    <p>Free Mobile a recours à iliad 78, Etablissement de paiement agréé par l’ACPR, agissant comme prestataire de services techniques.</p>
-   <p class="commit-sha">Révision: ac61086f0f295294a3b511e87fb3ca57b4fa1106</p>
+   <p class="commit-sha">Révision: 8efc6c957005dad95e332ffa60a01bd45bfb56ac</p>
 </div>
          </div>
    
